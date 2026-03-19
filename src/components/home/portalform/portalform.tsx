@@ -4,6 +4,7 @@ import { TextGenerateEffect } from "@/components/ui/text-generate-effect";
 import { motion } from "framer-motion";
 
 export default function PortalForm() {
+
   const words = `Career Advancement and Mentoring Centre of IIT Indore facilitates internships, placements and career readiness activities for all it's students.`;
 
   return (
