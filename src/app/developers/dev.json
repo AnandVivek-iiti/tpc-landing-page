@@ -34,5 +34,41 @@
     "linkedin": "https://www.linkedin.com/in/harsh-talati-1486b6228/",
     "github": "https://github.com/harshtalati2410",
     "email": "harsht241003@gmail.com"
+  },
+  {
+    "name": "Anand Vivek",
+    "image": "/data/developers/anandvivek.jpg",
+    "linkedin": "https://in.linkedin.com/in/anandvivek1223",
+    "github": "https://github.com/AnandVivek-iiti",
+    "email": "anand1234.vivek@gmail.com"
+  },
+  {
+    "name": "Sakshya Singh Kasera",
+    "image": "/data/developers/sakshyasinghkasera.jpg",
+    "linkedin": "https://in.linkedin.com/in/sakshya2504",
+    "github": "https://github.com/Sakshya2504",
+    "email": "singhkaserasakshya2504@gmail.com"
+  },
+  {
+    "name": "Pranay Gottimukkula",
+    "image": "/data/developers/pranaygottimukula.jpg",
+    "linkedin": "https://www.linkedin.com/in/pranay-gottimukula",
+    "github": "https://github.com/Pranay-Gottimukula",
+    "email": "pranaygottimukula@gmail.com"
+  },
+  {
+    "name": "Ashu Newatia",
+    "image": "/data/developers/ashunewatia.png",
+    "linkedin": "https://www.linkedin.com/in/ashunewatia23/",
+    "github": "https://github.com/AshuNewatia",
+    "email": "govind06092007@gmail.com"
+  },
+  {
+    "name": "Mahi Singh Sengar",
+    "image": "/data/developers/mahisinghsengar.jpg",
+    "linkedin": "https://www.linkedin.com/in/mahi-singh-sengar-b712b4377",
+    "github": "https://github.com/mahisingh06330-arch",
+    "email": "mahisingh06330@gmail.com"
   }
+
 ]
