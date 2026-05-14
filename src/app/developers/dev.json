@@ -1,18 +1,18 @@
 [
   {
-    "name": "Jai Pannu",
-    "image": "/data/developers/jai.png",
-    "linkedin": "https://www.linkedin.com/in/jaipannu-iiti/",
-    "github": "https://github.com/JaiPannu-IITI",
-    "email": "pannujai06iiti@gmail.com"
-  },
-  {
     "name": "Prince Kumar",
     "image": "/data/developers/prince.jpg",
     "linkedin": "https://www.linkedin.com/in/k07prince/",
     "github": "https://github.com/princekumarofficial",
     "email": "k07prince@gmail.com",
-    "website": "https://www.princecodes.online/"
+    "website": "https://www.pk42.me/"
+  },
+  {
+    "name": "Jai Pannu",
+    "image": "/data/developers/jai.png",
+    "linkedin": "https://www.linkedin.com/in/jaipannu-iiti/",
+    "github": "https://github.com/JaiPannu-IITI",
+    "email": "pannujai06iiti@gmail.com"
   },
   {
     "name": "Aryan Kullkarni",
