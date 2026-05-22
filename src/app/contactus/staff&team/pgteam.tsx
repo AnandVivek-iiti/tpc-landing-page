@@ -8,9 +8,10 @@ export default function FacultyProfile(props: any) {
       <div className={styles.info}>
         <h2>{props.name}</h2>
         <p>{props.department}</p>
-        <p>{props?.spec}</p>
+        <p>{props?.branch}</p>
         <p>{props.phone}</p>
         <p>{props.email}</p>
+        <p>{props.course}</p>
       </div>
     </div>
   );
