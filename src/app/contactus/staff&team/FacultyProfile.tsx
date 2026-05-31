@@ -5,12 +5,14 @@ interface FacultyProfileProps {
   name: string;
   email: string;
   phone: string;
+  domain: string;
 }
 
 const FacultyProfile: React.FC<FacultyProfileProps> = ({
   name,
   email,
   phone,
+  domain,
 }) => {
   return (
     <div className={styles.card}>
@@ -18,6 +20,7 @@ const FacultyProfile: React.FC<FacultyProfileProps> = ({
         <h2>{name}</h2>
         <p>Email: {email}</p>
         <p>Phone: {phone}</p>
+        <p>Domain: {domain}</p>
       </div>
     </div>
   );

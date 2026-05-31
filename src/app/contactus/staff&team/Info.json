@@ -2,290 +2,297 @@
   "teamug": [
     [
       {
-        "name": "Riddhi Chandekar",
-        "email": "cse220001020@iiti.ac.in",
-        "phone": "9172606680"
+        "name": "Anmol Joshi",
+        "email": "cse230001007@iiti.ac.in",
+        "phone": "8668991445",
+        "domain": "Core"
       },
       {
-        "name": "Sai Sanjana Reddy Algubella",
-        "email": "cse220001065@iiti.ac.in",
-        "phone": "6305946944"
+        "name": "Manan Jiwnani",
+        "email": "cse230001049@iiti.ac.in",
+        "phone": "7014649539",
+        "domain": "Core"
       },
       {
-        "name": "Vashistha Narayan Chaturvedi",
-        "email": "cse220001077@iiti.ac.in",
-        "phone": "9179177373"
-      },
-      {
-        "name": "Atharva Nanoti",
-        "email": "cse220001013@iiti.ac.in",
-        "phone": "7414924595"
+        "name": "Tripti Anand",
+        "email": "cse230001078@iiti.ac.in",
+        "phone": "9263511498",
+        "domain": "Core & Non-Core"
       }
     ],
     [
       {
-        "name": "Siddharth Agarwal",
-        "email": "ee220002075@iiti.ac.in",
-        "phone": "7649082325"
+        "name": "Prashant Narang",
+        "email": "ee230002056@iiti.ac.in",
+        "phone": "7986128956",
+        "domain": "Core"
       },
       {
-        "name": "Jasmer Singh Sanjotra",
-        "email": "ee220002041@iiti.ac.in",
-        "phone": "8788465639"
+        "name": "Kuvam Bhutani",
+        "email": "ee230002037@iiti.ac.in",
+        "phone": "7289916012",
+        "domain": "Core"
       },
       {
-        "name": "Ohm Kumar",
-        "email": "ee220002061@iiti.ac.in",
-        "phone": "8340499016"
-      },
-      {
-        "name": "JL Manaswini",
-        "email": "ee220002038@iiti.ac.in",
-        "phone": "9910293503"
+        "name": "Bharath Varma",
+        "email": "ee230002032@iiti.ac.in",
+        "phone": "8712200709",
+        "domain": "Core & Non-Core"
       }
     ],
     [
       {
-        "name": "Samruddhi Patil",
-        "email": "me220003058@iiti.ac.in",
-        "phone": "7588703209"
+        "name": "Yagyaparna Mandwale",
+        "email": "ce230004052@iiti.ac.in",
+        "phone": "9303138437",
+        "domain": "Core"
       },
       {
-        "name": "S Sri Vaishnavi",
-        "email": "me220003068@iiti.ac.in",
-        "phone": "7842751555"
+        "name": "Ashutosh Diyewar",
+        "email": "ce230004010@iiti.ac.in",
+        "phone": "9850607972",
+        "domain": "Core"
       },
       {
-        "name": "Prakhar Mishra",
-        "email": "me220003064@iiti.ac.in",
-        "phone": "9993861832"
+        "name": "Sai Chathura Alam",
+        "email": "ce230004004@iiti.ac.in",
+        "phone": "9182794408",
+        "domain": "Core & Non-Core"
+      }
+    ],
+    [
+     {
+        "name": "Suryansh Nagar",
+        "email": "me230003077@iiti.ac.in",
+        "phone": "9082388554",
+        "domain": "Core & Non-Core"
       },
       {
-        "name": "Anushka Varshney",
-        "email": "ce220004011@iiti.ac.in",
-        "phone": "8821997815"
+        "name": "Harsh Anand",
+        "email": "mems230005016@iiti.ac.in",
+        "phone": "9572396507",
+        "domain": "Core"
+      },
+      {
+        "name": "Varsha",
+        "email": "me230003074@iiti.ac.in",
+        "phone": "9701399946",
+        "domain": "Core"
       }
     ],
     [
       {
-        "name": "Avdhoot Kasture",
-        "email": "mems220005016@iiti.ac.in",
-        "phone": "7498032495"
+        "name": "Mohit Garhewal",
+        "email": "mems230005028@iiti.ac.in",
+        "phone": "7898460527",
+        "domain": "Core & Non-Core"
       },
       {
-        "name": "Divya Singh Maurya",
-        "email": "mems220005020@iiti.ac.in",
-        "phone": "7393084207"
+        "name": "Utkarsh Mittal",
+        "email": "mems230005049@iiti.ac.in",
+        "phone": "9929522265",
+        "domain": "Core"
       },
       {
-        "name": "Ashmi Chandak",
-        "email": "mems220005013@iiti.ac.in",
-        "phone": "9329723929"
-      },
-      {
-        "name": "Gyanu Sahu",
-        "email": "mems220005025@iiti.ac.in",
-        "phone": "9031179060"
+        "name": "Sahajmeet Kaur",
+        "email": "mems230005040@iiti.ac.in",
+        "phone": "9310905055",
+        "domain": "Core"
       }
     ],
     [
-      {
-        "name": "Shiv Patel",
-        "email": "ce220004044@iiti.ac.in",
-        "phone": "6396597024"
+       {
+        "name": "Vedika Butle",
+        "email": "che230008012@iiti.ac.in",
+        "phone": "9112229222",
+        "domain": "Core & Non-Core"
       },
       {
-        "name": "Kaushal Raj Soni",
-        "email": "ce220004023@iiti.ac.in",
-        "phone": "7489546192"
+        "name": "Ved Pathak",
+        "email": "che230008037@iiti.ac.in",
+        "phone": "6260807744",
+        "domain": "Core"
       },
       {
-        "name": "Yogesh Patidar",
-        "email": "ce220004055@iiti.ac.in",
-        "phone": "8839593625"
-      },
-      {
-        "name": "Pushkar Singh Kushwaha",
-        "email": "ce220004034@iiti.ac.in",
-        "phone": "7984776847"
+        "name": "Mustafa",
+        "email": "che230008027@iiti.ac.in",
+        "phone": "9586786052",
+        "domain": "Core"
       }
     ],
     [
        {
         "name": "Md. Asif Hussain",
         "email": "mc230041021@iiti.ac.in",
-        "phone": "9989073010"
-      }
-    ],
-    [
-       {
-        "name": "Aarushi Singh",
-        "email": "ep230051001@iiti.ac.in",
-        "phone": "9664070168"
+        "phone": "9989073010",
+        "domain": "Core"
+      },
+      {
+        "name": "Rishabh Anand",
+        "email": "mc230041029@iiti.ac.in",
+        "phone": "9560965280",
+        "domain": "Core & Non-Core"
       }
     ],
      [
        {
-        "name": "Prem Pratik",
-        "email": "sse230021012@iiti.ac.in",
-        "phone": "9142558530"
+        "name": "Aarushi Singh",
+        "email": "ep230051001@iiti.ac.in",
+        "phone": "9664070168",
+        "domain": "Core"
+      },
+      {
+        "name": "Prince Kumar",
+        "email": "ep230051013@iiti.ac.in",
+        "phone": "9973938636",
+        "domain": "Core & Non-Core"
       }
     ],
     [
        {
-        "name": "Mustafa",
-        "email": "che230008027@iiti.ac.in",
-        "phone": "9586786052"
+        "name": "Prem pratik",
+        "email": "sse230021012@iiti.ac.in",
+        "phone": "9142558530",
+        "domain": "Core"
+      },
+      {
+        "name": "Anuvab mandal",
+        "email": "sse230021003@iiti.ac.in",
+        "phone": "8109109508",
+        "domain": "Core & Non-Core"
+      }
+    ],
+    [
+       {
+        "name": "Anmol Jain",
+        "email": "che230008009@iiti.ac.in",
+        "phone": "9425656973",
+        "domain": "Core & Non-Core"
+      },
+      {
+        "name": "Ayush Sharma",
+        "email": "me230003012@iiti.ac.in",
+        "phone": "8839137604",
+        "domain": "Core & Non-Core"
+      },
+      {
+        "name": "Varad Pendse",
+        "email": "me230003084@iiti.ac.in",
+        "phone": "9967721357",
+        "domain": "Core & Non-Core"
+      },
+      {
+        "name": "Nirdosh Kumar",
+        "email": "ce230004032@iiti.ac.in",
+        "phone": "9311678891",
+        "domain": "Core & Non-Core"
       }
     ]
   ],
   "teampg": [
     {
-      "name": "Antim Jain",
-      "department": "Computer Science & Engineering",
-      "spec": "Computer Science & Engineering",
-      "email": "mt2402101002@iiti.ac.in",
-      "phone": "8824555283"
+      "name": "Anirban Roy",
+      "email": "mt2502104012@iiti.ac.in",
+      "branch": "Water, Climate and Sustainability",
+      "course": "MTech",
+      "department": "Civil Engineering",
+      "phone": "8102220646"
     },
     {
-      "name": "Saransh Vashistha",
-      "department": "Computer Science & Engineering",
-      "spec": "M.S. Research",
-      "email": "ms2404101005@iiti.ac.in",
-      "phone": "8003339977"
-    },
-    {
-      "name": "Prajjwal Sanskar",
-      "department": "ELECTRICAL",
-      "spec": "Communication and Signal Processing",
-      "email": "mt2402102008@iiti.ac.in",
-      "phone": "8837697914"
-    },
-    {
-      "name": "M Chandu",
-      "department": "ELECTRICAL",
-      "spec": "VLSI Design and Nanoelectronics",
-      "email": "mt2402102030@iiti.ac.in",
-      "phone": "6304599767"
-    },
-    {
-      "name": "Abhishek Ayushya",
-      "department": "ELECTRICAL",
-      "spec": "M.S. Research",
-      "email": "ms2404102005@iiti.ac.in",
-      "phone": "7368022616"
-    },
-    {
-      "name": "Mohit Goyal",
-      "department": "CEVITS",
-      "spec": "Electric Vehicle Technology",
-      "email": "mt2402106009@iiti.ac.in",
-      "phone": "9501081789"
-    },
-    {
-      "name": "Aditya Shukla",
-      "department": "CIVIL",
-      "spec":"Structural Engineering",
-      "email": "mt2402104004@iiti.ac.in",
-      "phone": "8770895034"
-    },
-    {
-      "name": "Sanskruti Lohakare",
-      "department": "CIVIL",
-      "spec":"Water, Climate and Sustainability",
-      "email": "mt2402104019@iiti.ac.in",
-      "phone": "7218010840"
-    },
-    {
-      "name": "Anant Kumar",
-      "department": "MECHANICAL",
-      "spec":"Mechanical Systems Design",
-      "email": "mt2402103051@iiti.ac.in",
-      "phone": "89927901118"
-    },
-    {
-      "name": "Tanishq Shah",
-      "department": "MECHANICAL",
-       "spec":"Mechanical Systems Design",
-      "email": "mt2402103041@iiti.ac.in",
-      "phone": "6355871275"
-    },
-    {
-      "name": "Kaustubh Sarode",
-      "department": "MECHANICAL",
-       "spec":"Advanced Manufacturing",
-      "email": "mt2402103004@iiti.ac.in",
-      "phone": "9133171947"
-    },
-    {
-      "name": "Siddharth Gupta",
-      "department": "MECHANICAL",
-      "spec":"Thermal Energy Systems",
-      "email": "mt2402103065@iiti.ac.in",
-      "phone": "8602751442"
-    },
-    {
-      "name": "Nishant Pawar",
-      "department": "MECHANICAL",
-      "spec":"Applied Optics and Laser Technology",
-      "email": "mt2402103030@iiti.ac.in",
-      "phone": "9834849478"
-    },
-    {
-      "name": "Vaibhav Pawar",
-      "department": "MECHANICAL",
-      "spec":"M.S. Research",
-      "email": "ms2404103007@iiti.ac.in",
-      "phone": "8169553642"
-    },
-    {
-      "name": "Akash Singh",
-      "department": "Metallurgical Engineering and Materials Science",
-      "spec":"Metallurgical Engineering & Materials Science",
-      "email": "mt2402105024@iiti.ac.in",
-      "phone": "9458423381"
-    },
-    {
-      "name": "Omkar Bankar",
-      "department": "Metallurgical Engineering and Materials Science",
-      "spec":"Metallurgical Engineering and Materials Science",
-      "email": "mt2402105026@iiti.ac.in",
-      "phone": "9763484608"
-    },
-    {
-      "name": "Anismita Biswas",
+      "name": "Arka Biswas",
+      "email": "mt2502121004@iiti.ac.in",
+      "branch": "Applied Optics and Laser Technology (AOLT)",
+      "course": "MTech",
       "department": "DAASE",
-      "spec":"Space Engineering",
-      "email": "mt2402121001@iiti.ac.in",
-      "phone": "8638109284"
+      "phone": "8910138703"
     },
     {
-      "name": "Rohit Garg",
-      "department": "BSBE",
-      "spec":"Biomedical Engineering",
-      "email": "mt2402171008@iiti.ac.in",
-      "phone": "7689073971"
-    },
-    {
-      "name": "Nishant Gupta",
-      "department": "M.Sc",
-      "spec":"Physics",
-      "email": "msc2403141007@iiti.ac.in",
-      "phone": "7248161765"
-    },
-    {
-      "name": "Rohit Garg",
-      "department": "M.Sc",
-      "spec":"Biotechnology",
-      "email": "mt2402171008@iiti.ac.in",
-      "phone": "7689073971"
-    },
-    {
-      "name": "Anismita Biswas",
+      "name": "Unnati Manohar Dhingriya",
+      "email": "mt2502121025@iiti.ac.in",
+      "branch": "Space Engineering",
+      "course": "MTech",
       "department": "DAASE",
-      "spec":"Astronomy",
-      "email": "mt2402121001@iiti.ac.in",
-      "phone": "8638109284"
+      "phone": "9359057443"
+    },
+    {
+      "name": "Ashutosh Mishra",
+      "email": "mt2502103034@iiti.ac.in",
+      "branch": "Thermal Energy System",
+      "course": "MTech",
+      "department": "Mechanical Engineering",
+      "phone": "9265685938"
+    },
+    {
+      "name": "Aditya Garg",
+      "email": "mt2502102017@iiti.ac.in",
+      "branch": "Power Systems and Power Electronics",
+      "course": "MTech",
+      "department": "Electrical Engineering",
+      "phone": "7876804125"
+    },
+    {
+      "name": "Suriyan T",
+      "email": "mt2502171022@iiti.ac.in",
+      "branch": "Biomedical Devices",
+      "course": "MTech",
+      "department": "Biosciences and Biomedical Engineering",
+      "phone": "8754800162"
+    },
+    {
+      "name": "TAMANNA DESWAL",
+      "email": "mSC2503131028@iiti.ac.in",
+      "branch": "Chemistry",
+      "course": "MSc",
+      "department": "Chemistry",
+      "phone": "7988798556"
+    },
+    {
+      "name": "Tarun Sharma",
+      "email": "mSC2503141020@iiti.ac.in",
+      "branch": "Mathematics",
+      "course": "MSc",
+      "department": "Mathematics",
+      "phone": "8076951735"
+    },
+    {
+      "name": "Saket Jain",
+      "email": "mt2502101009@iiti.ac.in",
+      "branch": "Computer Science and Engineering (CSE)",
+      "course": "MTech / MS(Research)",
+      "department": "Computer Science and Engineering",
+      "phone": "9131198210"
+    },
+    {
+      "name": "Aryan Raj",
+      "email": "mt2502105003@iiti.ac.in",
+      "branch": "Materials Science and Engineering ",
+      "course": "MTech",
+      "department": "Metallurgical Engineering and Materials Science",
+      "phone": "9024252579"
+    },
+    {
+      "name": "Utkarsh Dubey",
+      "email": "mt2502103026@iiti.ac.in",
+      "branch": "Mechanical Systems Design",
+      "course": "MTech",
+      "department": "Mechanical Engineering",
+      "phone": "8299724273"
+    },
+    {
+      "name": "Arnab Nandi",
+      "email": "mt2502106003@iiti.ac.in",
+      "branch": "Electric Vehicle Technology",
+      "course": "MTech",
+      "department": "Center for Electric Vehicles Intelligent Transport Systems",
+      "phone": "8877398860"
+    },
+    {
+      "name": "Divyanshu Naugai",
+      "email": "mt2502102003@iiti.ac.in",
+      "branch": "Communication & Signal Processing",
+      "course": "MTech",
+      "department": "Electrical Engineering",
+      "phone": "7409429600"
     }
   ],
 
