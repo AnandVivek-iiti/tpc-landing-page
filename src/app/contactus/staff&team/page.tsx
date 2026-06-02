@@ -33,7 +33,7 @@ const StaffTeam: React.FC = () => {
         ))}
       </div>
       <Button color="danger" variant="light" size="lg">
-        <div className={`para my-3 text-wrap`}>Mechanical Engineering</div>
+        <div className={`para my-3 text-wrap`}>Civil Engineering</div>
       </Button>
       <div className="flex flex-wrap gap-10 justify-between">
         {data.teamug[2].map((member: any, index: number) => (
@@ -42,7 +42,7 @@ const StaffTeam: React.FC = () => {
       </div>
       <Button color="danger" variant="light" size="lg">
         <div className={`para my-3 text-wrap`}>
-          Metallurgical Engineering and Materials Science
+          Mechanical Engineering
         </div>
       </Button>
       <div className="flex flex-wrap gap-10 justify-between">
@@ -51,7 +51,7 @@ const StaffTeam: React.FC = () => {
         ))}
       </div>
       <Button color="danger" variant="light" size="lg">
-        <div className={`para my-3 text-wrap`}>Civil Engineering</div>
+        <div className={`para my-3 text-wrap`}>Metallurgical Engineering and Materials Science</div>
       </Button>
       <div className="flex flex-wrap gap-10 justify-between">
         {data.teamug[4].map((member: any, index: number) => (
@@ -59,7 +59,7 @@ const StaffTeam: React.FC = () => {
         ))}
       </div>
        <Button color="danger" variant="light" size="lg">
-        <div className={`para my-3 text-wrap`}>Mathematics & Computing</div>
+        <div className={`para my-3 text-wrap`}>Chemical Engineering</div>
       </Button>
       <div className="flex flex-wrap gap-10 justify-between">
         {data.teamug[5].map((member: any, index: number) => (
@@ -67,7 +67,7 @@ const StaffTeam: React.FC = () => {
         ))}
       </div>
       <Button color="danger" variant="light" size="lg">
-        <div className={`para my-3 text-wrap`}>Engineering Physics</div>
+        <div className={`para my-3 text-wrap`}>Mathemattics and Computing</div>
       </Button>
       <div className="flex flex-wrap gap-10 justify-between">
         {data.teamug[6].map((member: any, index: number) => (
@@ -75,7 +75,7 @@ const StaffTeam: React.FC = () => {
         ))}
       </div>
        <Button color="danger" variant="light" size="lg">
-        <div className={`para my-3 text-wrap`}>Space Science & Engineering</div>
+        <div className={`para my-3 text-wrap`}>Engineering Physics</div>
       </Button>
       <div className="flex flex-wrap gap-10 justify-between">
         {data.teamug[7].map((member: any, index: number) => (
@@ -83,10 +83,18 @@ const StaffTeam: React.FC = () => {
         ))}
       </div>
        <Button color="danger" variant="light" size="lg">
-        <div className={`para my-3 text-wrap`}>Chemical Engineering</div>
+        <div className={`para my-3 text-wrap`}>Space Science and Engineering</div>
       </Button>
       <div className="flex flex-wrap gap-10 justify-between">
         {data.teamug[8].map((member: any, index: number) => (
+          <FacultyProfile key={index} {...member} />
+        ))}
+      </div>
+      <Button color="danger" variant="light" size="lg">
+        <div className={`para my-3 text-wrap`}>Non-Core</div>
+      </Button>
+      <div className="flex flex-wrap gap-10 justify-between">
+        {data.teamug[9].map((member: any, index: number) => (
           <FacultyProfile key={index} {...member} />
         ))}
       </div>
